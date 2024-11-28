@@ -1,4 +1,4 @@
-# fdcidemy Assessment
+# fdci Assessment
 Package | Version
 --- | ---
 [Node](https://nodejs.org/en/) | 16.20.0
